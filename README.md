@@ -31,7 +31,9 @@
 
 ***I did not know I had used java...***
 
-[![Anurag's  stats](https://github-readme-stats.vercel.app/api/wakatime/?username=pajsen&theme=radical)](https://github.com/pajsen9263)
+[![stats](https://github-readme-stats.vercel.app/api/wakatime/?username=pajsen&theme=radical)](https://github.com/pajsen9263)
+
+[![GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pajsen9263)](https://Pajsen.se)
 
 Languages
 <h3 align="left">Languages and Tools:</h3>
@@ -60,5 +62,5 @@ Languages
 
 
 
-[![GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pajsen9263)](https://Pajsen.se)
+
 
