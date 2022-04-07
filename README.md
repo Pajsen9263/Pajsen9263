@@ -33,7 +33,6 @@
 
 [![stats](https://github-readme-stats.vercel.app/api/wakatime/?username=pajsen&theme=radical)](https://github.com/pajsen9263)
 
-[![GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pajsen9263)](https://Pajsen.se)
 
 Languages
 <h3 align="left">Languages and Tools:</h3>
@@ -61,6 +60,4 @@ Languages
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
 
 
-
-
-
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pajsen9263)](https://Pajsen.se)
