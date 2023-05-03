@@ -25,7 +25,7 @@
 
 [![Stat](https://github-readme-stats.vercel.app/api?username=pajsen9263&show_icons=true&theme=radical&count_private=true)](https://github.com/pajsen9263)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pajsen9263&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://Pajsen.se)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pajsen9263&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://Pajsen.se)
 
 [![Lan  ](https://github-readme-stats.vercel.app/api/top-langs/?username=pajsen9263&show_icons=true&theme=radical&hide=html,scss,css)](https://github.com/pajsen9263)
 
