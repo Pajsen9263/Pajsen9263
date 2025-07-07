@@ -2,22 +2,22 @@
 
 **don't ask, just don't**
 
-``Contact on discord: Pajsen#9263`` 
+``Contact on discord: Pajsen`` 
 
 
-- I'm currently working on **QuaLang and Cybercore**
+- I'm currently working on **Future Makers and NexoMem**
 
-- 🌱 I’m currently relearning **Python**
+- 🌱 I’m currently doing random **Python** stuff
 
 - 👯 I’m looking to collaborate on **Kinda nothing**
 
-- 🤝 I’m looking for help with **More examples for QuaLang**
+- 🤝 I’m looking for help with **Research about youth on the internet**
 
 - 👨‍💻 All of my projects are available on my github [https://github.com/Pajsen9263?tab=repositories](https://github.com/Pajsen9263?tab=repositories)
 
-- 💬 Ask me about **Javascript, QuaLang, and python**
+- 💬 Ask me about **Javascript, Future Makers, and Python**
 
-- 📫 How to reach me **ilikepython@pajsen.se, Pajsen#9263.**
+- 📫 How to reach me **github@pajsen.se, Pajsen.**
 
 - ⚡ Fun fact **tutel**
 
